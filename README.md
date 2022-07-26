@@ -1,21 +1,5 @@
 <h1> Tela de seleção </h1>
 
-<style>
-    h1 {
-        text-align: center;
-    }
-    .container {
-        text-align: center;
-    }
-    img {
-        width: 900px;
-        height: 500px;
-    }
-    p {
-        text-align: center;
-    }
-</style>
-
 <div class="container">
     <p> Imagem do design da página </p>
     <img src="https://cdn.discordapp.com/attachments/841727270234488882/978383980149739620/unknown.png" alt="Tela de seleção">
